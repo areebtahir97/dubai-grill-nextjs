@@ -7,7 +7,7 @@ export default function Contact() {
 
         <div className="max-w-6xl mx-auto px-6 text-center">
 
-          <h1 className=" text-blacktext-4xl font-bold mb-4">
+          <h1 className=" text-black text-4xl font-bold mb-4">
             Contact Dubai Grill
           </h1>
 

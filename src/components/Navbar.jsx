@@ -47,7 +47,7 @@ export default function Navbar() {
 
    
       {open && (
-        <div className="md:hidden flex flex-col gap-4 p-4 border-t">
+        <div className="text-black md:hidden flex flex-col gap-4 p-4 border-t">
           <Link href="/">Home</Link>
           <Link href="/menu">Menu</Link>
           <Link href="/catering">Catering</Link>

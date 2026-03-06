@@ -20,7 +20,7 @@ export default function Hero() {
      
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-6">
 
-        <h1 className="text-4xl md:text-6xl font-bold mb-4">
+        <h1 className="text-4xl text-white md:text-6xl font-bold mb-4">
           Welcome to Dubai Grill
         </h1>
 

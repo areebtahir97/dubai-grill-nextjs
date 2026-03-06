@@ -8,7 +8,7 @@ export default function About() {
   }}>    
     <section className="max-w-6xl mx-auto px-6 py-24">
 
-      <h1 className="text-4xl font-bold mb-10">
+      <h1 className=" text-black text-4xl font-bold mb-10">
         About Dubai Grill
       </h1>
 
@@ -21,7 +21,7 @@ export default function About() {
         cuisines, creating dishes that satisfy every palate.
       </p>
 
-      <h2 className="text-2xl font-semibold mt-12 mb-4">
+      <h2 className="text-black text-2xl font-semibold mt-12 mb-4">
         Our Culinary Philosophy
       </h2>
 
@@ -33,7 +33,7 @@ export default function About() {
         traditional cooking techniques.
       </p>
 
-      <h2 className="text-2xl font-semibold mt-12 mb-4">
+      <h2 className="text-black text-2xl font-semibold mt-12 mb-4">
         A Diverse Dining Experience
       </h2>
 
@@ -45,7 +45,7 @@ export default function About() {
         we aim to make every visit unforgettable.
       </p>
 
-      <h2 className="text-2xl font-semibold mt-12 mb-4">
+      <h2 className="text-black text-2xl font-semibold mt-12 mb-4">
         Catering & Special Events
       </h2>
 
@@ -56,7 +56,7 @@ export default function About() {
         event is memorable and seamless.
       </p>
 
-      <h2 className="text-2xl font-semibold mt-12 mb-4">
+      <h2 className="text-black text-2xl font-semibold mt-12 mb-4">
         Our Team
       </h2>
 
@@ -66,7 +66,7 @@ export default function About() {
         guests can relax, enjoy great food, and create lasting memories.
       </p>
 
-      <h2 className="text-2xl font-semibold mt-12 mb-4">
+      <h2 className="text-black text-2xl font-semibold mt-12 mb-4">
         Visit Us
       </h2>
 

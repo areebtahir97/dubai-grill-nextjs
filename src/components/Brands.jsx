@@ -29,7 +29,7 @@ export default function Brands() {
 
       <div className="max-w-7xl mx-auto px-6">
 
-        <h2 className="text-3xl font-bold text-center mb-16">
+        <h2 className="text-3xl font-bold text-center mb-16 text-black">
           Our Restaurants
         </h2>
 
@@ -38,7 +38,7 @@ export default function Brands() {
           {brands.map((brand, index) => (
             <div
               key={index}
-              className="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-2 transition duration-300"
+              className="bg-white text-black rounded-lg overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-2 transition duration-300"
             >
 
               <div className="relative h-48">
@@ -52,7 +52,7 @@ export default function Brands() {
 
               <div className="p-5">
 
-                <h3 className="text-xl font-semibold mb-2">
+                <h3 className="text-xl text-black font-semibold mb-2">
                   {brand.name}
                 </h3>
 

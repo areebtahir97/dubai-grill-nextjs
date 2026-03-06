@@ -26,7 +26,7 @@ export default function Locations() {
 
       <div className="max-w-7xl mx-auto px-6">
 
-        <h2 className="text-3xl font-bold text-center mb-16">
+        <h2 className="text-black text-3xl font-bold text-center mb-16">
           Find a Dubai Grill Near You
         </h2>
 
@@ -38,7 +38,7 @@ export default function Locations() {
               className="bg-white p-8 rounded-lg shadow-sm hover:shadow-md transition"
             >
 
-              <h3 className="text-xl font-semibold mb-3">
+              <h3 className="text-black text-xl font-semibold mb-3">
                 {location.city}
               </h3>
 
@@ -57,7 +57,7 @@ export default function Locations() {
 
         <div className="text-center mt-16">
 
-          <button className="bg-[#B87333] text-white px-8 py-4 rounded hover:opacity-90 transition text-lg hover:-translate-y-2 transition duration-300">
+          <button className="bg-[#B87333] text-white px-8 py-4 rounded hover:opacity-90  text-lg hover:-translate-y-2 transition duration-300">
             View All Locations
           </button>
 

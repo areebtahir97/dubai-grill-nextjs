@@ -25,12 +25,11 @@ export default function CateringPage() {
       </section>
 
 
-      {/* Intro */}
       <section className="bg-gray-50 py-20">
 
         <div className="max-w-5xl mx-auto px-6 text-center">
 
-          <h2 className="text-3xl font-bold mb-6">
+          <h2 className=" text-black text-3xl font-bold mb-6">
             Exceptional Catering for Every Occasion
           </h2>
 
@@ -46,9 +45,7 @@ export default function CateringPage() {
 
       </section>
 
-
-      {/* Event Types */}
-      <section className="py-24">
+     <section className="py-24">
 
         <div className="max-w-7xl mx-auto px-6">
 
@@ -59,7 +56,7 @@ export default function CateringPage() {
           <div className="grid md:grid-cols-3 gap-10">
 
             <div className="bg-gray-50 p-8 rounded-lg">
-              <h3 className="text-xl font-semibold mb-3">
+              <h3 className="text-black text-xl font-semibold mb-3">
                 Corporate Events
               </h3>
               <p className="text-gray-600">
@@ -69,7 +66,7 @@ export default function CateringPage() {
             </div>
 
             <div className="bg-gray-50 p-8 rounded-lg">
-              <h3 className="text-xl font-semibold mb-3">
+              <h3 className=" text-black text-xl font-semibold mb-3">
                 Weddings & Celebrations
               </h3>
               <p className="text-gray-600">
@@ -79,7 +76,7 @@ export default function CateringPage() {
             </div>
 
             <div className="bg-gray-50 p-8 rounded-lg">
-              <h3 className="text-xl font-semibold mb-3">
+              <h3 className=" text-black text-xl font-semibold mb-3">
                 Private Parties
               </h3>
               <p className="text-gray-600">
@@ -95,19 +92,19 @@ export default function CateringPage() {
       </section>
 
 
-      {/* Catering Form */}
-      <section className="bg-gray-50 py-24">
 
-        <div className="max-w-3xl mx-auto px-6">
+      <section className="text-black bg-gray-50 py-24">
 
-          <h2 className="text-3xl font-bold text-center mb-10">
+        <div className="text-black max-w-3xl mx-auto px-6">
+
+          <h2 className="text-black text-3xl font-bold text-center mb-10">
             Request Catering
           </h2>
 
           <form className="space-y-6">
 
             <div>
-              <label className="block mb-2 font-medium">
+              <label className=" text-black block mb-2 font-medium">
                 Name
               </label>
               <input
@@ -118,7 +115,7 @@ export default function CateringPage() {
             </div>
 
             <div>
-              <label className="block mb-2 font-medium">
+              <label className="text-black block mb-2 font-medium">
                 Mobile Number
               </label>
               <input
@@ -129,7 +126,7 @@ export default function CateringPage() {
             </div>
 
             <div>
-              <label className="block mb-2 font-medium">
+              <label className="text-black block mb-2 font-medium">
                 Email
               </label>
               <input
@@ -140,7 +137,7 @@ export default function CateringPage() {
             </div>
 
             <div>
-              <label className="block mb-2 font-medium">
+              <label className="text-black block mb-2 font-medium">
                 Number of Guests
               </label>
               <input
@@ -151,7 +148,7 @@ export default function CateringPage() {
             </div>
 
             <div>
-              <label className="block mb-2 font-medium">
+              <label className="text-black block mb-2 font-medium">
                 Event Details
               </label>
               <textarea

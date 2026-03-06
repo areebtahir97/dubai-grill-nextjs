@@ -21,18 +21,18 @@ export default function Navbar() {
             height={32}
             alt="logo icon"
           />
-        <Link href="/"><h1 className={`${playfair.className} text-3xl`}>
+        <Link href="/"><h1 className={`${playfair.className} text-3xl text-black`}>
           Dubai Grill
         </h1></Link>
         </div>
         
 
         <div className="hidden md:flex gap-8 text-lg font-medium pt-4 ">
-          <Link  href="/" className="hover:text-[#B87333] transition">Home</Link>
-          <Link href="/menu" className="hover:text-[#B87333] transition">Menu</Link>
-          <Link href="/catering" className="hover:text-[#B87333] transition">Catering</Link>
-          <Link href="/about" className="hover:text-[#B87333] transition">About Us</Link>
-          <Link href="/contact" className="hover:text-[#B87333] transition">Contact Us</Link>
+          <Link  href="/" className="hover:text-[#B87333] transition text-black">Home</Link>
+          <Link href="/menu" className="hover:text-[#B87333] transition text-black">Menu</Link>
+          <Link href="/catering" className="hover:text-[#B87333] transition text-black">Catering</Link>
+          <Link href="/about" className="hover:text-[#B87333] transition text-black">About Us</Link>
+          <Link href="/contact" className="hover:text-[#B87333] transition text-black">Contact Us</Link>
         </div>
 
      
@@ -52,7 +52,7 @@ export default function Navbar() {
           <Link href="/menu">Menu</Link>
           <Link href="/catering">Catering</Link>
           <Link href="/about">About Us</Link>
-          <Link href="/contact">AContact Us</Link>
+          <Link href="/contact">Contact Us</Link>
         </div>
       )}
 

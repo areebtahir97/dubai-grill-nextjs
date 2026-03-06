@@ -98,7 +98,7 @@ export default function MenuPage() {
 
                 <div className="flex justify-between items-center mb-2">
 
-                  <h3 className="text-xl font-semibold">
+                  <h3 className="text-black text-xl font-semibold">
                     {item.name}
                   </h3>
 

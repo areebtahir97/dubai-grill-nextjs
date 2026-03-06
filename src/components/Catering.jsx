@@ -22,7 +22,7 @@ export default function Catering() {
 
           <div>
 
-            <h2 className="text-4xl font-bold mb-6">
+            <h2 className="text-4xl text-black font-bold mb-6">
               Catering for Every Occasion
             </h2>
 

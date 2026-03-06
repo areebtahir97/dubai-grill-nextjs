@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 
 export default function Hero() {
   return (
@@ -27,9 +28,9 @@ export default function Hero() {
           Discover bold flavors, authentic grills, and unforgettable dining experiences.
         </p>
 
-        <button className="bg-white text-black px-6 py-3 font-medium rounded hover:bg-gray-200 hover:-translate-y-2 transition duration-300">
+        <Link href='/contact' className="bg-white text-black px-6 py-3 font-medium rounded hover:bg-gray-200 hover:-translate-y-2 transition duration-300">
           Get in Touch
-        </button>
+        </Link>
 
       </div>
 

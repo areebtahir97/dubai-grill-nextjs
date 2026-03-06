@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 
 export default function Catering() {
   return (
@@ -35,9 +36,9 @@ export default function Catering() {
               Let us bring the taste of Dubai Grill to your next event.
             </p>
 
-            <button className="bg-[#B87333] text-white px-6 py-3 rounded hover:opacity-90 hover:-translate-y-2 transition duration-300">
+            <Link href='/catering' className="bg-[#B87333] text-white px-6 py-3 rounded hover:opacity-90 hover:-translate-y-2 transition duration-300">
               Request Catering
-            </button>
+            </Link>
 
           </div>
 

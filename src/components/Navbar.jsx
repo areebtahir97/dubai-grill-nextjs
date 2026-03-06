@@ -37,7 +37,7 @@ export default function Navbar() {
 
      
         <button
-          className="md:hidden text-2xl"
+          className="md:hidden text-2xl text-gray-700"
           onClick={() => setOpen(!open)}
         >
           ☰

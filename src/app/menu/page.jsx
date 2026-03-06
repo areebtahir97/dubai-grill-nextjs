@@ -5,61 +5,61 @@ const menuItems = [
     name: "Signature Mixed Grill",
     image: "/menu/grill2.jpg",
     description: "A flavorful selection of grilled meats served with warm pita and house sauces.",
-    price: "$24"
+    price: "AED 88"
   },
   {
     name: "Smoked BBQ Ribs",
     image: "/menu/ribs2.jpg",
     description: "Slow cooked ribs glazed with our signature smoky barbecue sauce.",
-    price: "$22"
+    price: "AED 80"
   },
   {
     name: "Mediterranean Chicken Bowl",
     image: "/menu/chicken.jpg",
     description: "Grilled chicken with fresh vegetables, herbs and aromatic rice.",
-    price: "$18"
+    price: "AED 65"
   },
   {
     name: "Spiced Lamb Skewers",
     image: "/menu/lamb.jpg",
     description: "Tender lamb skewers marinated with traditional Middle Eastern spices.",
-    price: "$21"
+    price: "AED 75"
   },
   {
     name: "Grilled Salmon",
     image: "/menu/salmon2.jpg",
     description: "Fresh salmon fillet grilled to perfection with lemon herb butter.",
-    price: "$23"
+    price: "AED 85"
   },
   {
     name: "Falafel Platter",
     image: "/menu/falafel.jpg",
     description: "Crispy falafel served with hummus, tahini sauce and warm flatbread.",
-    price: "$16"
+    price: "AED 58"
   },
   {
     name: "Chicken Shawarma Plate",
     image: "/menu/shawarma.jpg",
     description: "Juicy shawarma served with garlic sauce, rice and fresh salad.",
-    price: "$19"
+    price: "AED 70"
   },
   {
     name: "Beef Kofta Kebab",
     image: "/menu/kofta.jpg",
     description: "Grilled minced beef kebabs seasoned with herbs and spices.",
-    price: "$20"
+    price: "AED 74"
   },
   {
     name: "Grilled Prawn Skewers",
     image: "/menu/prawns.jpg",
     description: "Succulent prawns grilled with lemon and Mediterranean spices.",
-    price: "$25"
+    price: "AED 92"
   },
   {
     name: "Hummus & Pita",
     image: "/menu/hummus.jpg",
     description: "Creamy hummus served with warm freshly baked pita bread.",
-    price: "$12"
+    price: "AED 44"
   }
 ]
 

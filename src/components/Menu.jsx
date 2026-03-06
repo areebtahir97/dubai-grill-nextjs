@@ -6,37 +6,37 @@ const menuItems = [
     name: "Signature Mixed Grill",
     image: "/menu/grill2.jpg",
     description: "A flavorful selection of grilled meats served with warm pita and house sauces.",
-    price: "$24"
+    price: "AED 88"
   },
   {
     name: "Smoked BBQ Ribs",
     image: "/menu/ribs2.jpg",
     description: "Slow cooked ribs glazed with our signature smoky barbecue sauce.",
-    price: "$22"
+    price: "AED 80"
   },
   {
     name: "Mediterranean Chicken Bowl",
     image: "/menu/chicken.jpg",
     description: "Grilled chicken with fresh vegetables, herbs and aromatic rice.",
-    price: "$18"
+    price: "AED 66"
   },
   {
     name: "Spiced Lamb Skewers",
     image: "/menu/lamb.jpg",
     description: "Tender lamb skewers marinated with traditional Middle Eastern spices.",
-    price: "$21"
+    price: "AED 77"
   },
   {
     name: "Grilled Salmon",
     image: "/menu/salmon2.jpg",
     description: "Fresh salmon fillet grilled to perfection with lemon herb butter.",
-    price: "$23"
+    price: "AED 85"
   },
   {
     name: "Falafel Platter",
     image: "/menu/falafel.jpg",
     description: "Crispy falafel served with hummus, tahini sauce and warm flatbread.",
-    price: "$16"
+    price: "AED 59"
   }
 ]
 
